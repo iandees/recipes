@@ -1,15 +1,15 @@
 ### Ingredients
-1.25 c. flour
-1.0 t baking soda
-0.5 t salt
-0.5 t cinnamon
-1.0 c. butter
-3/4 c. sugar
-3/4 c. brown sugar
-2.0 eggs
-1.0 t vanilla
-3.0 c. oatmeal
-0.5 pkg butterscotch chips
+- 1.25 c. flour
+- 1.0 t baking soda
+- 0.5 t salt
+- 0.5 t cinnamon
+- 1.0 c. butter
+- 3/4 c. sugar
+- 3/4 c. brown sugar
+- 2.0 eggs
+- 1.0 t vanilla
+- 3.0 c. oatmeal
+- 0.5 pkg butterscotch chips
 
 ### Procedure
 1. Combine flour, soda, salt, cinnamon.
